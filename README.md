@@ -7,7 +7,7 @@
 <br>
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/837405111092510801)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=white)]([TU_LINKEDIN](https://www.linkedin.com/in/pablo-ferreiro-amado-a9a1112b5/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=white)]((https://www.linkedin.com/in/pablo-ferreiro-amado-a9a1112b5/))
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/_pablof/)
 
 <br>
